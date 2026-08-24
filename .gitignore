@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
